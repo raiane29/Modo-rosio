@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(255, 137, 165);
+    transition: background-code 1s, color 1s;
+}
+
+.dark-mode{
+    background-color: black;
+    color: rgb(255, 255, 255)
+}
+
